@@ -1,2 +1,2 @@
 # ProjektowanieSystemowSieciowych
-zzPSS - Projektowanie Systemów Sieciowych
+schemat struktury systemu uwzględniający warstwy DAO oraz serwisy
