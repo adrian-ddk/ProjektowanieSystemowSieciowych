@@ -21,7 +21,7 @@ Zadanie nr 2:
 
 Zadanie nr 3:
 - ProjektowanieSystemowSieciowych/PSS_3/app/controllers/OpinionsControl.class.php
-- ProjektowanieSystemowSieciowych/PSS_3/app/views/ManageOpinionsView.tpl
+- ProjektowanieSystemowSieciowych/PSS_3/app/views/UserOpinionView.tpl
 - ProjektowanieSystemowSieciowych/PSS_3/app/views/templates/main.tpl
 
 Zadanie nr 4:
