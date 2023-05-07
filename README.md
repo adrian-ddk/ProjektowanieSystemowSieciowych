@@ -30,6 +30,9 @@ Zadanie nr 4:
 - ProjektowanieSystemowSieciowych/PSS_4/public/assets/js/ajax-functions.js
 - ProjektowanieSystemowSieciowych/PSS_4/app/views/templates/main.tpl
 
+Zadanie nr 5:
+- ProjektowanieSystemowSieciowych/PSS_5/wordpress
+
 Harmonogram realizacji powyższych zadań (termin udostępnienia rozwiązań) - w nawiasie jest podany czas na realizację zadania w tygodniach od poprzedniego terminu:
 1. 19.3  (1t)
 2. 2.4  (2t) 
