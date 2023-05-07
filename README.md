@@ -11,6 +11,25 @@ W okresie trwania zajęć dydaktycznych danego semestru studenci realizują okre
 6. Dostosowanie nowego szablonu HTML (szablon strony + szablon menu)
 7. Aktualności i galeria
 
+!!! Lokalizacje do zadań !!!
+
+Zadanie nr 1:
+- Microsoft Teams
+
+Zadanie nr 2:
+- ProjektowanieSystemowSieciowych/PSS_2
+
+Zadanie nr 3:
+- ProjektowanieSystemowSieciowych/PSS_3/app/controllers/OpinionsControl.class.php
+- ProjektowanieSystemowSieciowych/PSS_3/app/views/UserOpinionView.tpl
+- ProjektowanieSystemowSieciowych/PSS_3/app/views/templates/main.tpl
+
+Zadanie nr 4:
+- ProjektowanieSystemowSieciowych/PSS_4/app/controllers/RegisterControl.class.php
+- ProjektowanieSystemowSieciowych/PSS_4/app/views/RegisterView.tpl
+- ProjektowanieSystemowSieciowych/PSS_4/public/assets/js/ajax-functions.js
+- ProjektowanieSystemowSieciowych/PSS_4/app/views/templates/main.tpl
+
 Harmonogram realizacji powyższych zadań (termin udostępnienia rozwiązań) - w nawiasie jest podany czas na realizację zadania w tygodniach od poprzedniego terminu:
 1. 19.3  (1t)
 2. 2.4  (2t) 
