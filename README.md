@@ -33,6 +33,12 @@ Zadanie nr 4:
 Zadanie nr 5:
 - ProjektowanieSystemowSieciowych/PSS_5/wordpress
 
+Zadanie nr 6:
+- ProjektowanieSystemowSieciowych/PSS_6/wordpress
+
+Zadanie nr 7:
+- ProjektowanieSystemowSieciowych/PSS_7/wordpress
+
 Harmonogram realizacji powyższych zadań (termin udostępnienia rozwiązań) - w nawiasie jest podany czas na realizację zadania w tygodniach od poprzedniego terminu:
 1. 19.3  (1t)
 2. 2.4  (2t) 
