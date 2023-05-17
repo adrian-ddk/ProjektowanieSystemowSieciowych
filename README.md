@@ -35,9 +35,11 @@ Zadanie nr 5:
 
 Zadanie nr 6:
 - ProjektowanieSystemowSieciowych/PSS_6/wordpress
+- ProjektowanieSystemowSieciowych/PSS_6/pizzeriacatto.WordPress.2023-05-17.xml
 
 Zadanie nr 7:
 - ProjektowanieSystemowSieciowych/PSS_7/wordpress
+- ProjektowanieSystemowSieciowych/PSS_7/pizzeriacatto.WordPress.2023-05-17.xml
 
 Harmonogram realizacji powyższych zadań (termin udostępnienia rozwiązań) - w nawiasie jest podany czas na realizację zadania w tygodniach od poprzedniego terminu:
 1. 19.3  (1t)
